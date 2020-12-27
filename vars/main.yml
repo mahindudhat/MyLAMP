@@ -1,0 +1,8 @@
+---
+# vars file for lamp
+apache_pack_deb: apache2
+package_name: httpd
+
+
+
+
